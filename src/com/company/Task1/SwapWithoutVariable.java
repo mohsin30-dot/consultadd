@@ -2,7 +2,7 @@ package com.company.Task1;
 
 import java.util.Scanner;
 
-public class Swap_without {
+public class SwapWithoutVariable {
     public static void main(String a[])
     {
         System.out.println("Enter the value of x and y");

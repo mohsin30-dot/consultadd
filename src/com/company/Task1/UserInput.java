@@ -2,7 +2,7 @@ package com.company.Task1;
 
 import java.util.Scanner;
 
-class GetInputData
+class UserInput
 {
     public static void main(String args[])
     {

@@ -2,7 +2,7 @@ package com.company.Task1;
 
 import java.util.Scanner;
 
-public class Swap_With {
+public class SwapWithVariable {
     public static void main(String[] args) {
         int x, y, z;         // x and y are to swap
         Scanner sc = new Scanner(System.in);
